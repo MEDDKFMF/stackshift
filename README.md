@@ -107,12 +107,6 @@ stackshift-consulting/
 - **Icons**: Font Awesome icons throughout
 - **Cards**: Modern card-based layout for content sections
 
-## 📧 Contact Information
-
-- **Email**: info@stackshift.consulting
-- **Location**: Nairobi, Kenya
-- **Phone**: +254 XXX XXX XXX
-
 ## 🛠️ Technologies Used
 
 - **React**: Frontend framework
